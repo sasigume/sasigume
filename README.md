@@ -1,16 +1,21 @@
 # sasigume
 
-## About me
+![Me](https://raw.githubusercontent.com/sasigume/sasigume/main/zoom.png)
 
-- 2000: Born
-- 2016-2019: 岡山芳泉高校
-- 2019-2019: 神戸芸術工科大学
-- 2020-2021: 浪人
-- 2021-: 岡山大学
+あ、どうも。
+わざわざGitHub見に来るってことはよっぽどコンタクト取りたい人でしょ。
+Twitterは[ここ](https://twitter.com/sasigume)ね。
+いっつも髪ボサボサですんません。
 
-岡大工学部
+## 経歴
 
-## Stats
+- 2000: _Born_
+- 2016-2019: 岡山芳泉高校入学
+- 2019-2019: 神戸芸術工科大学 映像表現学科入学
+- 2020-2021: **浪人**
+- 2021-: 岡山大学工学部大学
+
+## 書いている言語など
 
 [![sasigume's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasigume&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
