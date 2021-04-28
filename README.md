@@ -1,11 +1,14 @@
 # sasigume
 
-![Me](https://raw.githubusercontent.com/sasigume/sasigume/main/zoom.png)
+_ナポアンのマイクラ_っていうサイトを運営していました。
 
-あ、どうも。
+![logo](https://raw.githubusercontent.com/sasigume/projectnapoancom/main/readme-assets/maikura.png)
+![logo](https://raw.githubusercontent.com/sasigume/projectnapoancom/main/readme-assets/longneck.png)
+
 わざわざGitHub見に来るってことはよっぽどコンタクト取りたい人でしょ。
 Twitterは[ここ](https://twitter.com/sasigume)ね。
-いっつも髪ボサボサですんません。
+
+リアルで会う方、いっつも髪ボサボサですんません。
 
 ## 経歴
 
