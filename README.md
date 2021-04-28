@@ -1,6 +1,6 @@
 # sasigume
 
-_ナポアンのマイクラ_っていうサイトを運営していました。
+ナポアンのマイクラっていうサイトを運営していました。
 
 ![logo](https://raw.githubusercontent.com/sasigume/projectnapoancom/main/readme-assets/maikura.png)
 ![logo](https://raw.githubusercontent.com/sasigume/projectnapoancom/main/readme-assets/longneck.png)
