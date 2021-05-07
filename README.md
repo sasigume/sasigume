@@ -2,13 +2,7 @@
 
 ナポアンのマイクラっていうサイトを運営していました。
 
-![logo](https://raw.githubusercontent.com/sasigume/projectnapoancom/main/readme-assets/maikura.png)
-![logo](https://raw.githubusercontent.com/sasigume/projectnapoancom/main/readme-assets/longneck.png)
-
-わざわざGitHub見に来るってことはよっぽどコンタクト取りたい人でしょ。
-Twitterは[ここ](https://twitter.com/sasigume)ね。
-
-リアルで会う方、いっつも髪ボサボサですんません。
+<img width="50%" src="https://raw.githubusercontent.com/sasigume/projectnapoancom/main/readme-assets/maikura.png" />
 
 ## 経歴
 
