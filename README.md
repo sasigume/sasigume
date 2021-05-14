@@ -1,5 +1,10 @@
 # sasigume
 
+[![sasigume's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasigume&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![sasigume's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasigume&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ナポアンのマイクラっていうサイトを運営していました。
 
 <img width="50%" src="https://raw.githubusercontent.com/sasigume/projectnapoancom/main/readme-assets/maikura.png" />
@@ -11,9 +16,3 @@
 - 2019-2019: 神戸芸術工科大学 映像表現学科入学
 - 2020-2021: **浪人**
 - 2021-: 岡山大学工学部大学
-
-## 書いている言語など
-
-[![sasigume's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasigume&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![sasigume's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasigume&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
